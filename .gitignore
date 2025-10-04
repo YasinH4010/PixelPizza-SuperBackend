@@ -44,3 +44,16 @@ Thumbs.db
 # Build
 dist/
 build/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments (any level)
+**/venv/
+**/.venv/
+**/env/
+
+# Env files (anywhere)
+**/.env
+**/*.env
