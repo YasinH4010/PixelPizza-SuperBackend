@@ -1,0 +1,46 @@
+# ====================
+# Node.js (PixelPizzaAPI)
+# ====================
+PixelPizzaAPI/node_modules/
+PixelPizzaAPI/npm-debug.log*
+PixelPizzaAPI/yarn-debug.log*
+PixelPizzaAPI/yarn-error.log*
+PixelPizzaAPI/pnpm-debug.log*
+
+# Env files
+PixelPizzaAPI/config.env
+PixelPizzaAPI/.env
+
+# ====================
+# Python (PixelPizzaAgent)
+# ====================
+PixelPizzaAgent/__pycache__/
+PixelPizzaAgent/*.py[cod]
+PixelPizzaAgent/*.pyo
+PixelPizzaAgent/*.pyd
+PixelPizzaAgent/*.so
+PixelPizzaAgent/*.egg
+PixelPizzaAgent/*.egg-info/
+PixelPizzaAgent/.eggs/
+PixelPizzaAgent/.Python
+PixelPizzaAgent/venv/
+PixelPizzaAgent/env/
+PixelPizzaAgent/.venv/
+
+# Env files
+PixelPizzaAgent/config.env
+PixelPizzaAgent/.env
+
+# ====================
+# Common
+# ====================
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
