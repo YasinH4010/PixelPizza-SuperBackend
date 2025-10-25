@@ -66,7 +66,7 @@ In short:
 
 
 ---
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 After cloning the repository, you will have two separate folders:
 
@@ -77,20 +77,20 @@ PixelPizzaAgent → the Telegram admin bot
 
 Both folders have their own config.env.example files. Make sure to configure both before running anything.
 
-- 1️⃣ Clone the repository
+### Clone the repository
 
 ```
 git clone https://github.com/YasinH4010/PixelPizza-SuperBackend.git
 cd PixelPizza-SuperBackend
 ```
 
-- 2️⃣ Set up environment variables
+### Set up environment variables
 
 PixelPizzaAPI & PixelPizzaAgent → copy `config.env.example` to `config.env` and set values
 
 
 
-- 3️⃣ Install dependencies
+### Install dependencies
 
 For the API (Node.js)
 
@@ -100,7 +100,7 @@ npm install
 ```
 
 
-- 4️⃣ Run the services
+### Run the services
 
 Run API:
 
