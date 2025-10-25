@@ -1,4 +1,4 @@
-#🍕 PixelPizza SuperBackend
+# 🍕 PixelPizza SuperBackend
 
 PixelPizza SuperBackend is a powerful backend for a pizza ordering platform
 It consists of two main parts:
@@ -13,7 +13,7 @@ It consists of two main parts:
 
 ---
 
-##⚙️ API Layer
+## ⚙️ API Layer
 
 The API handles all the core features of the pizza ordering system, including:
 
@@ -33,7 +33,7 @@ The API handles all the core features of the pizza ordering system, including:
 
 ---
 
-##🤖 Agent (Telegram Admin Panel)
+## 🤖 Agent (Telegram Admin Panel)
 
 The Agent is a Telegram bot written in Python using Aiogram.
 It provides a simple and powerful way to manage your website directly from Telegram.
@@ -61,12 +61,12 @@ Features:
 > and more...
 
 In short:
-> You can manage your entire pizza business from Telegram!
+ You can manage your entire pizza business from Telegram!
 
 
 
 ---
-##🚀 Getting Started
+### 🚀 Getting Started
 
 After cloning the repository, you will have two separate folders:
 
@@ -77,20 +77,20 @@ PixelPizzaAgent → the Telegram admin bot
 
 Both folders have their own config.env.example files. Make sure to configure both before running anything.
 
--1️⃣ Clone the repository
+- 1️⃣ Clone the repository
 
 ```
 git clone https://github.com/YasinH4010/PixelPizza-SuperBackend.git
 cd PixelPizza-SuperBackend
 ```
 
--2️⃣ Set up environment variables
+- 2️⃣ Set up environment variables
 
 PixelPizzaAPI & PixelPizzaAgent → copy `config.env.example` to `config.env` and set values
 
 
 
--3️⃣ Install dependencies
+- 3️⃣ Install dependencies
 
 For the API (Node.js)
 
@@ -100,7 +100,7 @@ npm install
 ```
 
 
--4️⃣ Run the services
+- 4️⃣ Run the services
 
 Run API:
 
